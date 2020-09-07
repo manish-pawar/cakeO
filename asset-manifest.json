@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cakeO/static/css/main.741234e8.chunk.css",
-    "main.js": "/cakeO/static/js/main.6e9c84c9.chunk.js",
-    "main.js.map": "/cakeO/static/js/main.6e9c84c9.chunk.js.map",
+    "main.js": "/cakeO/static/js/main.dd7afc82.chunk.js",
+    "main.js.map": "/cakeO/static/js/main.dd7afc82.chunk.js.map",
     "runtime-main.js": "/cakeO/static/js/runtime-main.c3be28bc.js",
     "runtime-main.js.map": "/cakeO/static/js/runtime-main.c3be28bc.js.map",
     "static/css/2.ea6b7726.chunk.css": "/cakeO/static/css/2.ea6b7726.chunk.css",
     "static/js/2.ca9ddc53.chunk.js": "/cakeO/static/js/2.ca9ddc53.chunk.js",
     "static/js/2.ca9ddc53.chunk.js.map": "/cakeO/static/js/2.ca9ddc53.chunk.js.map",
     "index.html": "/cakeO/index.html",
-    "precache-manifest.c50036225eef8edc59e54a3bb3606ea3.js": "/cakeO/precache-manifest.c50036225eef8edc59e54a3bb3606ea3.js",
+    "precache-manifest.e9ee4b313924f455aa7488088b5728aa.js": "/cakeO/precache-manifest.e9ee4b313924f455aa7488088b5728aa.js",
     "service-worker.js": "/cakeO/service-worker.js",
     "static/css/2.ea6b7726.chunk.css.map": "/cakeO/static/css/2.ea6b7726.chunk.css.map",
     "static/css/main.741234e8.chunk.css.map": "/cakeO/static/css/main.741234e8.chunk.css.map",
@@ -39,6 +39,6 @@
     "static/css/2.ea6b7726.chunk.css",
     "static/js/2.ca9ddc53.chunk.js",
     "static/css/main.741234e8.chunk.css",
-    "static/js/main.6e9c84c9.chunk.js"
+    "static/js/main.dd7afc82.chunk.js"
   ]
 }
