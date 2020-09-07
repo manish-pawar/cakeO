@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f73379915074484952fb81ac6670a366",
+    "revision": "cbd40e3c7444329980f37f1388567f73",
     "url": "/cakeO/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cakeO/static/css/2.ea6b7726.chunk.css"
   },
   {
-    "revision": "82c33e7cf18d51a123ee",
+    "revision": "7379eb6371da69714157",
     "url": "/cakeO/static/css/main.741234e8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cakeO/static/js/2.ca9ddc53.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82c33e7cf18d51a123ee",
-    "url": "/cakeO/static/js/main.6b05484f.chunk.js"
+    "revision": "7379eb6371da69714157",
+    "url": "/cakeO/static/js/main.6e9c84c9.chunk.js"
   },
   {
     "revision": "bbf7470d1591208f67bf",
