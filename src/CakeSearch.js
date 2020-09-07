@@ -4,7 +4,7 @@ function CakeSearch({ getQuery }) {
   const [text, setText] = useState("");
 
   const onChange = (q) => {
-    setText(q);
+    setText(q.toLowerCase());
     getQuery(q);
   };
   return (

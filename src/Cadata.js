@@ -23,7 +23,7 @@ const Cadata = [
   },
   { id: 2, imgsrc: c2, title: "Hezelnut crunch", flav: "hezelnut" },
   { id: 3, imgsrc: c3, title: "Chocolate delite", flav: "chocolate" },
-  { id: 4, imgsrc: c4, title: "Chocolate devil", flav: "Chocolate" },
+  { id: 4, imgsrc: c4, title: "Chocolate devil", flav: "chocolate" },
   { id: 5, imgsrc: c5, title: "Strawberry cake", flav: "strawberry" },
   { id: 6, imgsrc: c6, title: "Vanilla delite", flav: "vanilla" },
   { id: 7, imgsrc: c7, title: "Black forest", flav: "chocolate" },
