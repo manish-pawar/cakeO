@@ -13,6 +13,8 @@ import c12 from "./images/c12.jpg";
 import c13 from "./images/c13.jpg";
 
 const Cadata = [
+  { id: 0, imgsrc: c13, title: "Pineapple blast", flav: "pineaaple" },
+
   {
     id: 1,
     imgsrc: c1,
@@ -30,7 +32,6 @@ const Cadata = [
   { id: 10, imgsrc: c10, title: "Vanilla white", flav: "vanilla" },
   { id: 11, imgsrc: c11, title: "Red velvet", flav: "red velvet " },
   { id: 12, imgsrc: c12, title: "Rainbow", flav: "bubblegum" },
-  { id: 13, imgsrc: c13, title: "Pineapple blast", flav: "pineaaple" },
 ];
 
 export default Cadata;
